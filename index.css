@@ -1,0 +1,22 @@
+body{
+
+text-transform: capitalize;
+text-align: center;
+background-image: url(tło.jpg);
+color:darkblue;
+background-repeat:inherit;
+
+}
+img{
+
+width: 500px;
+height: 500px;
+padding: 50px;
+background-color: red;
+border-radius: 50px;
+
+}
+footer{
+
+    text-align: right;
+}
